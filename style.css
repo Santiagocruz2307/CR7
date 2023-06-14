@@ -589,7 +589,7 @@ background: linear-gradient(to bottom, #E9E4F0, #D3CCE3); /* W3C, IE 10+/ Edge, 
 
 .picture--1{
    
-    background-image: url(images/ballon.png);
+    background-image: url(images/balondeoro.jpg);
     
     
     
@@ -599,7 +599,7 @@ background: linear-gradient(to bottom, #E9E4F0, #D3CCE3); /* W3C, IE 10+/ Edge, 
 
 .picture--3{
    
-    background-image: url(images/boots.jpg);
+    background-image: url(images/botadeoro.jpg);
     
    
     
@@ -607,7 +607,7 @@ background: linear-gradient(to bottom, #E9E4F0, #D3CCE3); /* W3C, IE 10+/ Edge, 
 
 .picture--2{
    
-    background-image: url(images/best.webp);
+    background-image: url(images/thebest.jpg);
   
    
     
@@ -810,18 +810,18 @@ background-color: #f7f7f7;
 .p2{
    
      background-image: url(images/atletico.jpg)     
-     position: relative;
+       position: relative;
 }
 
 .p3{
     background-image: url(images/spain.jpg)   
-    position: relative;
+      position: relative;
 }
 
 .p4{
    
     background-image: url(images/bayern.jpg)    
-    position: relative;
+      position: relative;
 }
 
 /* 
