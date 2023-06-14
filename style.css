@@ -809,18 +809,18 @@ background-color: #f7f7f7;
 
 .p2{
    
-     background-image: url(images/atletico.jpg)     
+     background-image: url(images/atletico.jpg);     
        position: relative;
 }
 
 .p3{
-    background-image: url(images/spain.jpg)   
+    background-image: url(images/spain.jpg);   
       position: relative;
 }
 
 .p4{
    
-    background-image: url(images/bayern.jpg)    
+    background-image: url(images/bayern.jpg);    
       position: relative;
 }
 
